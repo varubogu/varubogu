@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning ...
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=godot" />
 - 📫 How to reach me:
-  -  [X - @varubogu_tysk](https://x.com/varubogu_tysk)
+  - [X - @varubogu_tysk](https://x.com/varubogu_tysk)
   - [email](mailto:toyosuke@varubogu.com)
 
 
@@ -20,34 +20,34 @@
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
 
-### Language & Runtime
+### ⌨️Language & Runtime
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,nodejs,npm,bun,rust,cs,dotnet,java,py,php" />
 
-### Library & Framework
+### 📚Library & Framework
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=tailwind,react,nodejs,npm,bun,astro,jquery,dotnet" />
 
-### Database
+### 💾Database
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=postgres,mysql" />
 
 - Oracle database
 - SQL Server
 
-### Editor & IDE
+### 📝Editor & IDE
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=visualstudio,vscode,eclipse,idea,pycharm,phpstorm,webstorm,obsidian" />
 
-### Platform
+### 🌐Platform
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=docker,aws,gcp,cloudflare" />
 
-### OS
+### 🖥️OS
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=windows,linux,ubuntu,apple" />
 
-### Other
+### 🔧Other
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=twitter,discord,bots,notion,postman" />
 
