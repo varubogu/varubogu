@@ -24,9 +24,15 @@
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,nodejs,npm,bun,rust,cs,dotnet,java,py,php" />
 
+- VB.NET
+
 ### 📚Library & Framework
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=tailwind,react,nodejs,npm,bun,astro,jquery,dotnet" />
+
+- Java Servlet
+- ASP.NET MVC
+- discord.py
 
 ### 💾Database
 
@@ -42,6 +48,8 @@
 ### 🌐Platform
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=docker,aws,gcp,cloudflare" />
+
+- Dev Container
 
 ### 🖥️OS
 
