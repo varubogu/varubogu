@@ -1,3 +1,7 @@
+varubogu@toyosuke
+
+English | [日本語](README.ja.md)
+
 <!-- 1. GitHub usernameを変更 -->
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=varubogu" />
