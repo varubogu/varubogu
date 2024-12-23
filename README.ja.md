@@ -80,3 +80,8 @@
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=varubogu&theme=vue-dark&layout=compact" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varubogu&theme=vue-dark&layout=compact" />
 </div>
+
+
+## 組織アカウントについて
+
+自分でのfork用に[組織アカウント](https://github.com/varubogu-organization)のリポジトリを使用することがあります。
